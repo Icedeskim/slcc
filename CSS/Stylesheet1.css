@@ -1,0 +1,96 @@
+img {
+    height: 125px;
+    display: inline;
+    margin-right: 1em;
+    float: left;
+    
+}
+article {
+    
+    height 20em;
+    display: inline;
+    margin-top: 20px;
+    
+}
+
+body {
+    font-family: times, arial, sans-serif;
+    background-color: #f9f8eb;
+    text-align: justify;
+    word-wrap: normal;
+    font-size: 1.25em;
+}
+hr{
+    border-width: 1%;
+    border-style: solid;
+    color: #552244;
+}
+
+
+nav >.container {
+    text-align: center;
+    text-color: #552244;
+    padding: 1%;
+    font-size: 1.30em;
+    margin-inline: 2%;  
+   
+}
+
+nav { 
+    border: 2% #552244;
+    
+}
+#bar:hover {
+    background-color: #c2cfc0;   
+}
+
+h4 {
+    color:#fefaec; 
+    font-size: 1em; 
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+h3 {
+    color: #552244; 
+    font-size:20px; 
+}
+
+#home {
+    background-image: url(../Images/ValleyofFire.jpg);
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: static;
+    text-align: justify;
+    padding-inline-start: 7em;
+    padding-inline-end: 8em;
+    color: #fefaec;
+    word-wrap: normal;
+    font-weight: 1.8em;  
+    
+}
+
+#volunteer {
+    padding-end: 8em;
+}
+#education {
+     color: #552244;
+     font-size:20px;
+   
+}
+#radio:hover {
+    background-color:#00454a;
+    color: #f9f8eb;
+}
+
+footer {
+    position: fixed;
+    
+}
+#comments {
+    position: left;
+}
+
+
+

@@ -1,0 +1,15 @@
+
+nav >.class {
+    margin-top: 25em;
+    margin-right: 10em;
+    text-shadow: darkkhaki;
+}
+div >.class {
+    display: block;
+}
+
+#name {
+    font-style: italic;
+}
+
+<*I don't get why I need another style sheet on top of what I already have? Just seems like complicating things and it isn't working.   -*>
